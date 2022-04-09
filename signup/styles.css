@@ -1,0 +1,17 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: bolder;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.registration {
+    display: flex;
+}
+
+.reg_item {
+    display: flex;
+    
+}
